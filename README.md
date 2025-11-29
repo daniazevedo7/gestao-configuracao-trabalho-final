@@ -20,3 +20,15 @@ ferramentas. Realize as seguintes tarefas que representam o fluxo de
 trabalho com Git/GitHub
 
 O Arquivo com os demais detalhes esta disponivel no AVA.
+
+# Variaveis de ambiente
+# Porta usada na aplicação 
+PORT:
+# Usuario usado na aplicação
+USER:
+# Senha de usuario da aplicação
+PASS:
+# User de banco de dados
+DBUSER:
+# Senha do user de banco de dados
+DBPASS:
