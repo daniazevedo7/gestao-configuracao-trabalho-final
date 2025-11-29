@@ -1,4 +1,7 @@
 # gestao-configuracao-trabalho-final
+Equipe:
+Daniel Azevedo de Sousa, matricula 2516375
+Dheyme Sena Batista, matricula 2518073
 
 ## Trabalho final
 
