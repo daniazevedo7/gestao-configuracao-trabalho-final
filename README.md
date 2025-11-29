@@ -32,3 +32,6 @@ PASS:
 DBUSER:
 # Senha do user de banco de dados
 DBPASS:
+
+# Log com ultima alteração
+18c342a (HEAD -> dev) informacoes de variaveis
