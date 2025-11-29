@@ -1,4 +1,7 @@
 # gestao-configuracao-trabalho-final
+Equipe:
+Daniel Azevedo de Sousa, matricula 2516375
+Dheyme Sena Batista, matricula 2518073
 
 ## Trabalho final
 
@@ -17,3 +20,18 @@ ferramentas. Realize as seguintes tarefas que representam o fluxo de
 trabalho com Git/GitHub
 
 O Arquivo com os demais detalhes esta disponivel no AVA.
+
+# Variaveis de ambiente
+# Porta usada na aplicação 
+PORT:
+# Usuario usado na aplicação
+USER:
+# Senha de usuario da aplicação
+PASS:
+# User de banco de dados
+DBUSER:
+# Senha do user de banco de dados
+DBPASS:
+
+# Log com ultima alteração
+18c342a (HEAD -> dev) informacoes de variaveis
